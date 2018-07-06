@@ -1,0 +1,30 @@
+.institute{
+    position:relative;
+    top : -10px;
+    left : 100px;
+}
+
+.leftpanel{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+.name{
+    position:relative;
+    left : 100px;
+    /*top :50px;*/
+}
+
+
+.rightpanel{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+.title{
+    background-color: #4fc3f7;
+    padding: 20px;
+
+}
+
+
