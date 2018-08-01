@@ -1,0 +1,139 @@
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.new_nrcv.com" resolutions="1x" timestamp="1533102941510">
+  <folder name="css">
+    <file name="site_global.css" crc="3967329196"/>
+    <file name="master_e-master.css" crc="4032377274" ref="courses-next-sem:courses-last-sem:projects-offered:feedback-of-courses"/>
+    <file name="master_d-master.css" crc="317451199" ref="reportsthesis:phd-programs:yearly-archives"/>
+    <file name="master_b-master.css" crc="3918978414" ref="conferences:special-programs:workshops:outreach:invited-lectures"/>
+    <file name="master_a-master.css" crc="3924451609" ref="focus-areas:about:index:conferences:reportsthesis:courses-next-sem:courses-last-sem:faculty:phd-programs:cpc:projects-offered:special-programs:workshops:feedback-of-courses:academics:outreach:invited-lectures:crc:yearly-archives:events:phd-students:contact-us"/>
+    <file name="master_c-master.css" crc="4119555167" ref="faculty:cpc:crc:phd-students"/>
+    <file name="focus-areas.css" crc="488016808" ref="focus-areas"/>
+    <file name="about.css" crc="515731340" ref="about"/>
+    <file name="index.css" crc="115591674" ref="index"/>
+    <file name="conferences.css" crc="358322033" ref="conferences"/>
+    <file name="reportsthesis.css" crc="3973318539" ref="reportsthesis"/>
+    <file name="courses-next-sem.css" crc="3833203866" ref="courses-next-sem"/>
+    <file name="courses-last-sem.css" crc="4193839496" ref="courses-last-sem"/>
+    <file name="faculty.css" crc="4140693675" ref="faculty"/>
+    <file name="phd-programs.css" crc="4172690437" ref="phd-programs"/>
+    <file name="cpc.css" crc="75964134" ref="cpc"/>
+    <file name="projects-offered.css" crc="4185909854" ref="projects-offered"/>
+    <file name="special-programs.css" crc="4174235363" ref="special-programs"/>
+    <file name="workshops.css" crc="4188163676" ref="workshops"/>
+    <file name="feedback-of-courses.css" crc="3866442587" ref="feedback-of-courses"/>
+    <file name="academics.css" crc="418491817" ref="academics"/>
+    <file name="outreach.css" crc="4133534373" ref="outreach"/>
+    <file name="invited-lectures.css" crc="3958806630" ref="invited-lectures"/>
+    <file name="crc.css" crc="115248230" ref="crc"/>
+    <file name="yearly-archives.css" crc="4180197448" ref="yearly-archives"/>
+    <file name="events.css" crc="422813872" ref="events"/>
+    <file name="phd-students.css" crc="243044412" ref="phd-students"/>
+    <file name="contact-us.css" crc="469556591" ref="contact-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="adinarayanan-iitd-inner-development-course-plan.pdf" crc="449552420" seo="true" mt="1531352096000"/>
+    <file name="vev741_yogic_neuroscience.pdf" crc="77358056" seo="true" mt="1531352104000"/>
+    <file name="vev733_socraticmethod.pdf" crc="508102282" seo="true" mt="1531352102000"/>
+    <file name="vev732-drbijlani-course.pdf" crc="11948627" seo="true" mt="1531352100000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:about:academics:events:contact-us:faculty:phd-students:reportsthesis:focus-areas:phd-programs:courses-last-sem:courses-next-sem:projects-offered:feedback-of-courses:crc:cpc:invited-lectures:conferences:workshops:special-programs:outreach:yearly-archives"/>
+    <file name="museutils.js" crc="334180058" ref="index:about:academics:events:contact-us:faculty:phd-students:reportsthesis:focus-areas:phd-programs:courses-last-sem:courses-next-sem:projects-offered:feedback-of-courses:crc:cpc:invited-lectures:conferences:workshops:special-programs:outreach:yearly-archives"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:about:academics:events:contact-us:faculty:phd-students:reportsthesis:focus-areas:phd-programs:courses-last-sem:courses-next-sem:projects-offered:feedback-of-courses:crc:cpc:invited-lectures:conferences:workshops:special-programs:outreach:yearly-archives"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index:about:academics:events:contact-us:faculty:phd-students:reportsthesis:focus-areas:phd-programs:courses-last-sem:courses-next-sem:projects-offered:feedback-of-courses:crc:cpc:invited-lectures:conferences:workshops:special-programs:outreach:yearly-archives"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:academics:events:contact-us:faculty:phd-students:reportsthesis:focus-areas:phd-programs:courses-last-sem:courses-next-sem:projects-offered:feedback-of-courses:crc:cpc:invited-lectures:conferences:workshops:special-programs:outreach:yearly-archives"/>
+    <file name="webpro.js" crc="7309900" ref="index:contact-us"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index"/>
+    <file name="touchswipe.js" crc="526709374" ref="index"/>
+    <file name="form_check.php" crc="481505460" ref="contact-us"/>
+    <file name="form_throttle.php" crc="190635071" ref="contact-us"/>
+    <file name="form_process.php" crc="3869018311" ref="contact-us"/>
+    <file name="form-u2056.php" crc="394227124" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3852930774" ref="index"/>
+    <file name="pasted image 413x329.jpg" crc="52798439" seo="true" ref="faculty"/>
+    <file name="pasted image 419x394.jpg" crc="410236881" seo="true" ref="faculty"/>
+    <file name="pasted image 389x314.jpg" crc="512532374" seo="true" ref="faculty"/>
+    <file name="pasted image 1047x431.jpg" crc="4137663707" seo="true" ref="feedback-of-courses"/>
+    <file name="pasted image 1022x543.jpg" crc="37143104" seo="true" ref="feedback-of-courses"/>
+    <file name="image002.jpg" crc="439133942" seo="true" ref="faculty"/>
+    <file name="white.jpg" crc="4074082694" seo="true" ref="invited-lectures"/>
+    <file name="amitjain.jpg" crc="3796636443" seo="true" ref="faculty"/>
+    <file name="jyotikumar.jpg" crc="4090715577" seo="true" ref="faculty"/>
+    <file name="profile1.jpg" crc="59246893" seo="true" ref="faculty"/>
+    <file name="prathosh.jpg" crc="113411775" seo="true" ref="faculty"/>
+    <file name="myphoto.png" crc="273000071" seo="true" ref="faculty"/>
+    <file name="sssatya.jpg" crc="11016535" seo="true" ref="faculty"/>
+    <file name="logo.png" crc="4266460497" seo="true" ref="index:about:academics:events:contact-us:faculty:phd-students:reportsthesis:focus-areas:phd-programs:courses-last-sem:courses-next-sem:projects-offered:feedback-of-courses:crc:cpc:invited-lectures:conferences:workshops:special-programs:outreach:yearly-archives"/>
+    <file name="_dsc0022_00001-crop-u1997.jpg" crc="206188809" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="_dsc0171-crop-u2026.jpg" crc="3776421771" ref="index"/>
+    <file name="_dsc0284-crop-u2035.jpg" crc="160821845" ref="index"/>
+    <file name="_dsc0171-crop-u2083.jpg" crc="3776421771" ref="index"/>
+    <file name="_dsc0063_00001_01-crop-u2092.jpg" crc="4026455767" ref="index"/>
+    <file name="dsc_1147-crop-u2106.jpg" crc="4243813509" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2066-21.png" crc="311828129" ref="contact-us"/>
+    <file name="u2066-21-r.png" crc="3844863548" ref="contact-us"/>
+    <file name="u2066-21-m.png" crc="446077895" ref="contact-us"/>
+    <file name="u2066-21-fs.png" crc="51175883" ref="contact-us"/>
+    <file name="pasted image 190x265.jpg" crc="214645417" seo="true" ref="faculty"/>
+    <file name="pasted image 200x235.jpg" crc="3972200822" seo="true" ref="faculty"/>
+    <file name="pasted image 170x194.jpg" crc="477174716" seo="true" ref="faculty"/>
+    <file name="pasted image 205x246.jpg" crc="192299456" seo="true" ref="faculty"/>
+    <file name="pasted image 191x264.jpg" crc="202016503" seo="true" ref="faculty"/>
+    <file name="pasted image 200x200.jpg" crc="4095282064" seo="true" ref="faculty"/>
+    <file name="pasted image 160x160.jpg" crc="3948845825" seo="true" ref="faculty"/>
+    <file name="pasted image 221x228.jpg" crc="123955946" seo="true" ref="faculty"/>
+    <file name="pasted image 209x242.jpg" crc="4056291071" seo="true" ref="faculty"/>
+    <file name="pasted image 226x223.jpg" crc="490311247" seo="true" ref="faculty"/>
+    <file name="pasted image 259x194.jpg" crc="333159334" seo="true" ref="faculty"/>
+    <file name="pasted image 189x236.jpg" crc="4208283268" seo="true" ref="faculty"/>
+    <file name="pasted image 225x225.jpg" crc="4277698156" seo="true" ref="faculty"/>
+    <file name="pasted image 198x255.jpg" crc="123123460" seo="true" ref="faculty"/>
+    <file name="pasted image 259x1942.jpg" crc="43953433" seo="true" ref="faculty"/>
+    <file name="pasted image 183x275.jpg" crc="4115401088" seo="true" ref="faculty"/>
+    <file name="pasted image 173x130.jpg" crc="93959912" seo="true" ref="faculty"/>
+    <file name="pasted image 211x238.jpg" crc="524381628" seo="true" ref="faculty"/>
+    <file name="pasted image 200x2002.jpg" crc="85690763" seo="true" ref="faculty"/>
+    <file name="pasted image 110x120.jpg" crc="4031136390" seo="true" ref="faculty"/>
+    <file name="pasted image 196x257.jpg" crc="4182195813" seo="true" ref="faculty"/>
+    <file name="pasted image 225x2252.jpg" crc="187686252" seo="true" ref="faculty"/>
+    <file name="pasted image 512x512.jpg" crc="3855631183" seo="true" ref="faculty"/>
+    <file name="pasted image 512x5122.jpg" crc="3901557368" seo="true" ref="faculty"/>
+    <file name="pasted image 193x258.jpg" crc="496621511" seo="true" ref="faculty"/>
+    <file name="pasted image 183x2752.jpg" crc="4092396790" seo="true" ref="faculty"/>
+    <file name="pasted image 110x1202.jpg" crc="90021320" seo="true" ref="faculty"/>
+    <file name="pasted image 110x1203.jpg" crc="121701622" seo="true" ref="faculty"/>
+    <file name="pasted image 199x253.jpg" crc="3805364414" seo="true" ref="faculty"/>
+    <file name="pasted image 1024x1024.jpg" crc="318973514" seo="true" ref="focus-areas"/>
+    <file name="pasted image 264x191.jpg" crc="3867826039" seo="true" ref="focus-areas"/>
+    <file name="pasted image 261x193.jpg" crc="193838550" seo="true" ref="focus-areas"/>
+    <file name="pasted image 1000x662.jpg" crc="97353198" seo="true" ref="focus-areas"/>
+    <file name="pasted image 700x340.jpg" crc="4175165655" seo="true" ref="focus-areas"/>
+  </folder>
+  <file name="index.html" crc="4014382101" seo="true" mt="1532937734994" redirect="true"/>
+  <file name="about.html" crc="527150454" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="academics.html" crc="185931325" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="events.html" crc="524885117" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="contact-us.html" crc="313958584" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="faculty.html" crc="437461231" seo="true" mt="1532950340681" redirect="true"/>
+  <file name="phd-students.html" crc="452667382" seo="true" mt="1533102664318" redirect="true"/>
+  <file name="reportsthesis.html" crc="58212849" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="focus-areas.html" crc="190944993" seo="true" mt="1532938399454" redirect="true"/>
+  <file name="phd-programs.html" crc="6054055" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="courses-last-sem.html" crc="425352915" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="courses-next-sem.html" crc="3788376287" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="projects-offered.html" crc="32638237" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="feedback-of-courses.html" crc="329998252" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="crc.html" crc="3940218829" seo="true" mt="1532947844812" redirect="true"/>
+  <file name="cpc.html" crc="469868890" seo="true" mt="1532947575386" redirect="true"/>
+  <file name="invited-lectures.html" crc="3785095126" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="conferences.html" crc="4250690842" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="workshops.html" crc="4156128645" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="special-programs.html" crc="151323549" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="outreach.html" crc="250087492" seo="true" mt="1532937182986" redirect="true"/>
+  <file name="yearly-archives.html" crc="179587351" seo="true" mt="1532937182986" redirect="true"/>
+</manifest>
